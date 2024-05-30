@@ -1,0 +1,32 @@
+.x{
+    border: 5px solid;
+    border-radius: 20px;
+    float: left;
+    width: 100%;
+    }
+.y{
+    border: 5px solid;
+    border-radius: 20px;
+    width: 100%;
+    float: right;
+   }
+img{
+    float: left;
+}
+p{
+    float: right;
+}
+.x{
+    background-color: blue;
+}
+.y{
+    background-color: blue;
+}
+
+.x:hover {
+    background-color: aquamarine;
+}
+
+.y:hover {
+    background-color: aquamarine;
+}
